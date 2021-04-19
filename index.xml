@@ -6,7 +6,17 @@
     <description>Recent content on rogowskibart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 14:10:51 +0200</lastBuildDate><atom:link href="https://rogowskibart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 23:58:37 +0200</lastBuildDate><atom:link href="https://rogowskibart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrieving values from Kotlin enum classes</title>
+      <link>https://rogowskibart.github.io/posts/retrieving-from-kotlin-enum-classes/</link>
+      <pubDate>Mon, 19 Apr 2021 23:58:37 +0200</pubDate>
+      
+      <guid>https://rogowskibart.github.io/posts/retrieving-from-kotlin-enum-classes/</guid>
+      <description>Not long ago, when I was working on an Android project, I’ve noticed a problem with a Kotlin function that was using an enum. I needed to get a value from an enum class but because the data was received from an external API I needed to map it based on a value. So the enum class looked something like this:
+enum class WeirdEnum(val value: Int) { Zero, One, Two, Seven, Eight, Nine, Ten, Eleven, companion object { private val values = WeirdEnum.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://rogowskibart.github.io/posts/first-post/</link>

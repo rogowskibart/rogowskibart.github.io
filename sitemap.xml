@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rogowskibart.github.io/posts/first-post/</loc>
-    <lastmod>2021-04-18T14:10:51+02:00</lastmod>
+    <loc>https://rogowskibart.github.io/tags/android/</loc>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rogowskibart.github.io/tags/enums/</loc>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rogowskibart.github.io/tags/kotlin/</loc>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
   </url><url>
     <loc>https://rogowskibart.github.io/posts/</loc>
-    <lastmod>2021-04-18T14:10:51+02:00</lastmod>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rogowskibart.github.io/posts/retrieving-from-kotlin-enum-classes/</loc>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
   </url><url>
     <loc>https://rogowskibart.github.io/</loc>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rogowskibart.github.io/tags/</loc>
+    <lastmod>2021-04-19T23:58:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rogowskibart.github.io/posts/first-post/</loc>
     <lastmod>2021-04-18T14:10:51+02:00</lastmod>
   </url><url>
     <loc>https://rogowskibart.github.io/archives/</loc>
@@ -16,8 +31,6 @@
     <loc>https://rogowskibart.github.io/categories/</loc>
   </url><url>
     <loc>https://rogowskibart.github.io/series/</loc>
-  </url><url>
-    <loc>https://rogowskibart.github.io/tags/</loc>
   </url><url>
     <loc>https://rogowskibart.github.io/tags/</loc>
   </url>
