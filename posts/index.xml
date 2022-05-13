@@ -14,7 +14,7 @@
       
       <guid>https://rogowskibart.github.io/posts/retrieving-from-kotlin-enum-classes/</guid>
       <description>Not long ago, when I was working on an Android project, I’ve noticed a problem with a Kotlin function that was using an enum. I needed to get a value from an enum class but because the data was received from an external API I needed to map it based on a value. So the enum class looked something like this:
-enum class WeirdEnum(val value: Int) { Zero, One, Two, Seven, Eight, Nine, Ten, Eleven, companion object { private val values = WeirdEnum.</description>
+enum class WeirdEnum(val value: Int) {  Zero,  One,  Two,  Seven,  Eight,  Nine,  Ten,  Eleven,   companion object {  private val values = WeirdEnum.</description>
     </item>
     
     <item>
