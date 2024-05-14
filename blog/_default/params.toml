@@ -1,0 +1,43 @@
+colorScheme = "blowfish"
+disableImageOptimization = false
+defaultBackgroundImage = "background.png" # used as default for background images 
+# Blowfish (default)
+# Avocado
+# Fire
+# Ocean
+# Forest
+# Princess
+# Neon
+# Bloody
+# Terminal
+# Marvel
+# Noir
+# Autumn
+# Congo
+# Slate
+[homepage]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "background.png" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
+
+[header]
+  layout = "fixed"
+
+[article]
+  showHero = true
+  heroStyle = "background" 
+  showSummary = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+
+[list]
+  showCards = true
+  groupByYear = false
+  cardView = true

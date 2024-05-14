@@ -1,0 +1,5 @@
+[author]
+   name = "Your name here"
+   image = "profile.jpg"
+   headline = "I'm only human"
+   bio = "A little bit about you" # appears in author card for each article
