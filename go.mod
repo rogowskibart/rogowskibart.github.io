@@ -1,4 +1,4 @@
-module blog
+module github.com/rogowskibart.github.io/blog
 
 go 1.22.3
 
