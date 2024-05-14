@@ -1,4 +1,3 @@
 baseURL = "http://rogowskibart.github.io"
 languageCode = "en-us"
 title = "Junior Data Engineer's story"
-theme = "blowfish"
